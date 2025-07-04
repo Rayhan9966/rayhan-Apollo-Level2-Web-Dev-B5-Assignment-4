@@ -1,0 +1,47 @@
+export const books  = [
+  {
+    id: "1",
+    title: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    genre: "Classic",
+    isbn: "9780743273565",
+    copies: 5,
+    availability: "Available",
+  },
+  {
+    id: "2",
+    title: "To Kill a Mockingbird",
+    author: "Harper Lee",
+    genre: "Fiction",
+    isbn: "9780061120084",
+    copies: 0,
+    availability: "Unavailable",
+  },
+  {
+    id: "3",
+    title: "1984",
+    author: "George Orwell",
+    genre: "Dystopian",
+    isbn: "9780451524935",
+    copies: 3,
+    availability: "Available",
+  },
+  {
+    id: "4",
+    title: "Pride and Prejudice",
+    author: "Jane Austen",
+    genre: "Romance",
+    isbn: "9781503290563",
+    copies: 1,
+    availability: "Available",
+  },
+  {
+    id: "5",
+    title: "The Hobbit",
+    author: "J.R.R. Tolkien",
+    genre: "Fantasy",
+    isbn: "9780547928227",
+    copies: 0,
+    availability: "Unavailable",
+  }
+];
